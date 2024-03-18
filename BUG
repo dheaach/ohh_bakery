@@ -1,0 +1,21 @@
+WEB DEV 28/03/2023
+
+- Dashboard Front End 	: 	- Transaksi bahan baku dan manufaktur terbanyak berdasarkan status barang (DONE)
+							- penyelesaian menu dashboard lainnya (DONE)
+							- Menu Dashboard dibuat grafik seperti di wasaf untuk transaksi produksi dan bahan baku (DONE)
+							- Refresh chart tanpa reload page.
+- Master Barang 		: 	- (DONE) Status Barang Bahan Baku dan Produksi 
+							- (DONE) Update Harga masih belum bisa 
+							- (DONE) Tombol Update margin didisable jika tidak ada barang yang dipilih 
+							- (DONE) Tampilan untuk modal tab satuan untuk harga rata kanan 
+							- (DONE) Ganti satuan dengan kolom fiks 3 untuk aksi simpan jadi 1 di btn-s-brg
+							- (DONE) update satuan masih belum mengubah harga jual -> lihat update_margin 
+							- (DONE) Saat mengisi satuan 2 harga jual lama menjadi harga satuan ke 2
+- Master Akses 			:	- (DONE) Tambahan untuk akses (checkbox Harga Jual dan Harga Beli)
+- All Master			:	- Import Data
+- All Manufaktur 		:	- Hilangkan komentar pada InsertTrans dan cek
+							- Validasi menu manufaktur jika tabel detail kosong
+							- Detail manufaktur disamakan dengan barang->satuan dengan focus
+							- Print Transaksi
+							- Filter barang stok dan manufaktur pada product list single dan multiple (DONE)
+							- Hide kolom menu manufaktur yang tidak diperlukan, tampilkan dengan tombol

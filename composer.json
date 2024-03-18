@@ -1,0 +1,11 @@
+{
+    "require": {
+        "kreait/firebase-php": "4.17.0",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "setasign/fpdf": "^1.8"
+    },
+    "config": {
+        "platform-check": false
+    }
+	
+}
